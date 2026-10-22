@@ -105,8 +105,8 @@ currently_building: MTMS — a management & trading system for an auto-parts bus
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rirhcceez&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=2563eb&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rirhcceez&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&langs_count=6" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rirhcceez&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=2563eb&count_private=true&hide_rank=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rirhcceez&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&langs_count=6&hide=html,css,jupyter%20notebook,c,c%2B%2B" alt="Top languages" />
 </p>
 
 <p align="center">
