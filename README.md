@@ -78,12 +78,12 @@ currently_building: MTMS — a management & trading system for an auto-parts bus
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚙️ <a href="https://github.com/Rirhcceez/MTMS-WebApp-Backend">MTMS Backend</a></h4>
+      <h4>⚙️ MTMS Backend <img src="https://img.shields.io/badge/Private_repo-6e7681?style=flat-square&logo=github&logoColor=white" alt="Private repo" align="right" /></h4>
       <p>API behind a management & trading system for an auto-parts business: daily sales reports, PDF quotations, price management, SKUs and delivery route planning.</p>
       <p><code>FastAPI</code> <code>PostgreSQL</code> <code>pandas</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🖥️ <a href="https://github.com/Rirhcceez/MTMS-WebApp-Frontend">MTMS Frontend</a></h4>
+      <h4>🖥️ MTMS Frontend <img src="https://img.shields.io/badge/Private_repo-6e7681?style=flat-square&logo=github&logoColor=white" alt="Private repo" align="right" /></h4>
       <p>The web app staff use day to day to generate reports, manage prices and create quotations.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Tailwind</code></p>
     </td>
